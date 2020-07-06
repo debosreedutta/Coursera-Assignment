@@ -15,7 +15,7 @@ h1 {
 section {
     border: 1px solid black;
     background-color: #b5c4d2;
-    margin: 1px;
+    
 }
 
 section>h2 {
@@ -37,7 +37,7 @@ section.lebesgue>h2 {
 }
 
 section.fubini>h2 {
-    background-color: maroon;
+    background-color: lightblue;
 }
 
 section.luzin>h2 {
@@ -46,7 +46,7 @@ section.luzin>h2 {
 }
 
 section>p {
-    padding: 40px 15px 15px 15px;
+   
     background-color: lightgreen;
 }
 
