@@ -1,22 +1,20 @@
 /*
 Solution of assignment 4:
-
 Expected output:
-
-Hello Debosree
-Good Bye Jerry
-Good Bye Justin
-Good Bye Jack
-Hello Harry
-Hello Brent
-Hello Millie
-Hello Franklin
-Hello Parker
-Good Bye Jacob
+Hello Yaakov
+Good Bye John
+Good Bye Jen
+Good Bye Jason
+Hello Paul
+Hello Frank
+Hello Larry
+Hello Paula
+Hello Laura
+Good Bye Jim
 */
 
 (function() {
-    var names = ["Debosree", "Jerry", "Justin", "Jack", "Harry", "Brent", "Millie", "Franklin", "Parker", "Jacob"];
+    var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
     for (var i = 0; i < names.length; i++) {
         var firstLetter = names[i].charAt(0).toLowerCase();
         if (firstLetter === 'j') {
