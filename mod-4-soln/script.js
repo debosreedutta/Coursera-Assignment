@@ -1,6 +1,9 @@
 /*
 Solution of assignment 4:
+
 Expected output:
+
+
 Hello Yaakov
 Good Bye John
 Good Bye Jen
@@ -12,6 +15,7 @@ Hello Paula
 Hello Laura
 Good Bye Jim
 */
+
 
 (function() {
     var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
