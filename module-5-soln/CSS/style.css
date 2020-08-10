@@ -7,7 +7,7 @@ body {
 
 /** HEADER **/
 #header-nav {
-  background-color: maroon;
+  background-color: #f6b319;
   border-radius: 0;
   border: 0;
 }
@@ -370,3 +370,6 @@ h3.menu-item-title {
     width: 100%;
   }
 }
+
+
+
