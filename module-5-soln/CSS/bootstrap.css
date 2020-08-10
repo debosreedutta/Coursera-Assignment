@@ -1,4 +1,4 @@
-*!
+/*!
  * Bootstrap v3.3.6 (http://getbootstrap.com)
  * Copyright 2011-2015 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
@@ -1894,7 +1894,7 @@ pre code {
     left: auto;
   }
   .col-sm-offset-12 {
-      margin-left: 100%;
+    margin-left: 100%;
   }
   .col-sm-offset-11 {
     margin-left: 91.66666667%;
@@ -2619,7 +2619,7 @@ input[type="search"] {
   .input-group-sm input[type="month"] {
     line-height: 30px;
   }
-    input[type="date"].input-lg,
+  input[type="date"].input-lg,
   input[type="time"].input-lg,
   input[type="datetime-local"].input-lg,
   input[type="month"].input-lg,
